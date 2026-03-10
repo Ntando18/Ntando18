@@ -33,7 +33,7 @@ I hold certifications from **Cisco Networking Academy**, the **National School o
 | Microsoft Digital Literacy | NSG | ✅ Complete |
 | Cybersecurity for Government | NSG | ✅ Complete |
 | Networking Basics | Cisco Networking Academy | 🚧 In Progress |
-| Data Analytics Essentials | Cisco Networking Academy | 🚧 In Progress |
+| Data Analytics Essentials | Cisco Networking Academy |✅ Complete |
 
 ---
 
@@ -59,7 +59,7 @@ I hold certifications from **Cisco Networking Academy**, the **National School o
 
 - **Tools:** Microsoft Excel
 - **Data source:** Statistics South Africa (Stats SA)
-- **Status:** 🚧 In Progress
+- **Status:** ✅ complete
 
 ---
 
@@ -89,10 +89,10 @@ I hold certifications from **Cisco Networking Academy**, the **National School o
 - ✅ Complete Microsoft Digital Literacy
 - ✅ Complete MSCOA
 - ✅ Complete Responsive Web Design & JavaScript (freeCodeCamp)
-- ✅ Create GitHub portfolio
+- ✅Create GitHub portfolio
 - 🔲 Complete Cisco Networking Basics
-- 🔲 Complete Cisco Data Analytics Essentials
-- 🔲 Complete first data analysis project
+- ✅ Complete Cisco Data Analytics Essentials
+- ✅ Complete first data analysis project
 - 🔲 Learn SQL and Python for data analysis
 - 🔲 Land first Data Analyst, Security Analyst, or Government Tech role
 
